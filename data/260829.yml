@@ -1,0 +1,64 @@
+about:
+  description: 🐊 Policy Controller for Kubernetes
+  license: Apache-2.0
+  homepage: https://open-policy-agent.github.io/gatekeeper/
+  head: 7fcaeef
+  archived: false
+  latestVersion: v3.23.1
+  collectedAt: 2026-08-29T07:29:33Z
+timeline:
+  created: 2018-10-26
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 4269
+  watcher: 63
+  fork: 881
+  release: 142
+  contributor: 270
+  pullRequest: 599
+  issue: 1574
+language:
+  Go: 3481089
+  Shell: 95596
+  Makefile: 26089
+  Go Template: 16194
+  JavaScript: 14448
+  Open Policy Agent: 9016
+  Dockerfile: 6258
+  CSS: 4796
+  Python: 4064
+totalLine: 3657550
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 50
+    openPR: 13
+    closedIssue: 1
+    openIssue: 9
+    commit: 51
+  last90d:
+    since: 2026-05-31
+    release: 4
+    mergedPR: 144
+    openPR: 20
+    closedIssue: 3
+    openIssue: 14
+    commit: 152
+  last180d:
+    since: 2026-03-02
+    release: 8
+    mergedPR: 272
+    openPR: 26
+    closedIssue: 16
+    openIssue: 22
+    commit: 247
+  last360d:
+    since: 2025-09-03
+    release: 14
+    mergedPR: 464
+    openPR: 30
+    closedIssue: 47
+    openIssue: 41
+    commit: 431
