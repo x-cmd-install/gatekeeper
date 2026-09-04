@@ -7,7 +7,7 @@ about:
   head: d9441eb
   archived: false
   latestVersion: v3.23.1
-  collectedAt: 2026-09-04T20:07:42Z
+  collectedAt: 2026-09-04T20:39:18Z
 timeline:
   created: 2018-10-26
   lastCommit: 2026-09-02
@@ -39,7 +39,7 @@ recent:
     openPR: 18
     closedIssue: 1
     openIssue: 8
-    commit: 0
+    commit: 49
   last60d:
     since: 2026-07-06
     release: 3
@@ -47,7 +47,7 @@ recent:
     openPR: 23
     closedIssue: 1
     openIssue: 12
-    commit: 0
+    commit: 101
   last90d:
     since: 2026-06-06
     release: 4
@@ -55,7 +55,7 @@ recent:
     openPR: 25
     closedIssue: 3
     openIssue: 14
-    commit: 0
+    commit: 160
   last180d:
     since: 2026-03-08
     release: 8
@@ -63,7 +63,7 @@ recent:
     openPR: 31
     closedIssue: 16
     openIssue: 22
-    commit: 0
+    commit: 244
   last360d:
     since: 2025-09-09
     release: 14
@@ -71,7 +71,7 @@ recent:
     openPR: 35
     closedIssue: 45
     openIssue: 41
-    commit: 0
+    commit: 430
   last720d:
     since: 2024-09-14
     release: 35
@@ -89,7 +89,7 @@ total:
   commit: 2347
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/gatekeeper
-collectedAt: 2026-09-04T20:07:52Z
+collectedAt: 2026-09-04T20:39:29Z
 loc:
   Go:
     code: 101180
