@@ -5,7 +5,7 @@ about:
   head: d9441eb
   archived: false
   latestVersion: "v3.23.1"
-  collectedAt: 2026-09-08T03:16:28Z
+  collectedAt: 2026-09-08T06:03:58Z
 timeline:
   created: 2018-10-26
   lastCommit: 2026-09-02
@@ -87,7 +87,7 @@ total:
   commit: 2347
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/gatekeeper
-collectedAt: 2026-09-08T03:16:59Z
+collectedAt: 2026-09-08T06:04:32Z
 loc:
   Go:
     code: 101180
