@@ -1,6 +1,24 @@
----
-owner-repo: open-policy-agent/gatekeeper
-desc:   🐊 Policy Controller for Kubernetes 
----
-
 # gatekeeper
+
+🐊 Policy Controller for Kubernetes
+
+- **Upstream**: <https://github.com/open-policy-agent/gatekeeper>
+- **Homepage**: <https://open-policy-agent.github.io/gatekeeper/>
+- **Latest release**: `v3.23.1` (2026-08-27)
+- **Last commit**: 2026-09-02
+- **License**: Apache-2.0
+- **Stars**: 4273 · **Forks**: 881 · **Open issues**: 1574 · **Contributors**: 270
+
+## Installation
+
+```sh
+x install gatekeeper
+```
+
+See <https://x-cmd.com/install/gatekeeper> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T12:39:03Z._
