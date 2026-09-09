@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 38595512,
       "digest": "sha256:dc96df4a0bad0427b36d2b10473801528ca5bdb00f2addb34d17bb7d706ed99b",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-08-27T22:03:07Z",
       "updated_at": "2026-08-27T22:03:09Z",
       "browser_download_url": "https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 39377263,
       "digest": "sha256:c268d7b809c9fe59a110ab0bf7c296ab00b0b6c894c209cd15e94194590291bb",
-      "download_count": 2392,
+      "download_count": 2684,
       "created_at": "2026-08-27T22:03:07Z",
       "updated_at": "2026-08-27T22:03:09Z",
       "browser_download_url": "https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 35696486,
       "digest": "sha256:2d4bd0e28e708c2893a66fdca652f1d775b23fc5a3c07571fd314ba06d19ff2b",
-      "download_count": 35,
+      "download_count": 40,
       "created_at": "2026-08-27T22:03:07Z",
       "updated_at": "2026-08-27T22:03:09Z",
       "browser_download_url": "https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 406,
       "digest": "sha256:052a3dc3f0bf0e54b43df77e11f272b5527f8d152b5d82850d1625c94759394f",
-      "download_count": 198,
+      "download_count": 200,
       "created_at": "2026-08-27T22:03:07Z",
       "updated_at": "2026-08-27T22:03:07Z",
       "browser_download_url": "https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/sha256sums.txt"
