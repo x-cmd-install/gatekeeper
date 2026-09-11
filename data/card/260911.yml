@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.23.1"
   latestRelease: "v3.23.1"
   latestPrerelease: "v3.24.0-beta.0"
-  collectedAt: 2026-09-11T06:21:18Z
+  collectedAt: 2026-09-11T18:24:12Z
 timeline:
   created: 2018-10-26
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 2350
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/gatekeeper
-collectedAt: 2026-09-11T06:21:58Z
+collectedAt: 2026-09-11T18:24:41Z
 loc:
   Go:
     code: 103561
