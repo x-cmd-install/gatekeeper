@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 47 | 28 | 0 | 9 | 43 |
-| last60d | 2026-07-14 | 1 | 90 | 30 | 1 | 13 | 91 |
-| 90d | 2026-06-14 | 4 | 148 | 34 | 1 | 15 | 150 |
-| last180d | 2026-03-16 | 6 | 266 | 40 | 13 | 23 | 244 |
-| 360d | 2025-09-17 | 14 | 455 | 44 | 44 | 42 | 422 |
-| last720d | 2024-09-22 | 35 | 794 | 45 | 163 | 60 | 728 |
+| 30d | 2026-08-14 | 1 | 47 | 28 | 0 | 9 | 31 |
+| last60d | 2026-07-15 | 1 | 89 | 30 | 1 | 13 | 77 |
+| 90d | 2026-06-15 | 4 | 138 | 34 | 1 | 15 | 127 |
+| last180d | 2026-03-17 | 6 | 265 | 40 | 13 | 23 | 238 |
+| 360d | 2025-09-18 | 14 | 455 | 44 | 44 | 42 | 420 |
+| last720d | 2024-09-23 | 35 | 794 | 45 | 162 | 60 | 728 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T06:03:19Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:20:54Z._
