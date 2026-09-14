@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 47 | 28 | 0 | 9 | 31 |
-| last60d | 2026-07-15 | 1 | 89 | 30 | 1 | 13 | 77 |
-| 90d | 2026-06-15 | 4 | 138 | 34 | 1 | 15 | 127 |
-| last180d | 2026-03-17 | 6 | 265 | 40 | 13 | 23 | 238 |
-| 360d | 2025-09-18 | 14 | 455 | 44 | 44 | 42 | 420 |
-| last720d | 2024-09-23 | 35 | 794 | 45 | 162 | 60 | 728 |
+| 30d | 2026-08-15 | 1 | 47 | 28 | 0 | 9 | 31 |
+| last60d | 2026-07-16 | 1 | 89 | 30 | 1 | 13 | 77 |
+| 90d | 2026-06-16 | 4 | 138 | 34 | 1 | 15 | 127 |
+| last180d | 2026-03-18 | 6 | 264 | 40 | 13 | 23 | 238 |
+| 360d | 2025-09-19 | 14 | 455 | 44 | 44 | 42 | 420 |
+| last720d | 2024-09-24 | 35 | 794 | 45 | 162 | 60 | 728 |
 
 ## Release assets
 
@@ -75,14 +75,6 @@ Lowest-scoring checks:
 | [gator-v3.23.1-linux-arm64.tar.gz](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-arm64.tar.gz) | 34.0 MiB | `native/linux/arm64` |
 | [sha256sums.txt](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/sha256sums.txt) | 406 B | `other` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/gatekeeper). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.23.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gatekeeper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:20:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:41:45Z._
