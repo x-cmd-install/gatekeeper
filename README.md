@@ -14,11 +14,11 @@ x install gatekeeper
 
 ## Code insight
 
-Total: **154,050** lines of code across **1020** files in the top 5 languages.
+Total: **154,148** lines of code across **1021** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 103,561 | 8,512 | 13,253 | 533 |
+| Go | 103,659 | 8,545 | 13,273 | 534 |
 | Yaml | 45,342 | 317 | 308 | 445 |
 | Json | 1,478 | 0 | 0 | 22 |
 | Sh | 1,008 | 245 | 336 | 17 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.23.1` (2026-08-27)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-14
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2539 · **Open PRs**: 45 · **Closed issues**: 1417 · **Open issues**: 158 · **Commits**: 2350
+- **Releases**: 142 · **Merged PRs**: 2540 · **Open PRs**: 45 · **Closed issues**: 1418 · **Open issues**: 157 · **Commits**: 2351
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 47 | 28 | 0 | 9 | 31 |
-| last60d | 2026-07-16 | 1 | 89 | 30 | 1 | 13 | 77 |
-| 90d | 2026-06-16 | 4 | 138 | 34 | 1 | 15 | 127 |
-| last180d | 2026-03-18 | 6 | 264 | 40 | 13 | 23 | 238 |
-| 360d | 2025-09-19 | 14 | 455 | 44 | 44 | 42 | 420 |
-| last720d | 2024-09-24 | 35 | 794 | 45 | 162 | 60 | 728 |
+| 30d | 2026-08-16 | 1 | 45 | 27 | 1 | 8 | 32 |
+| last60d | 2026-07-17 | 1 | 90 | 30 | 2 | 12 | 78 |
+| 90d | 2026-06-17 | 4 | 137 | 34 | 2 | 14 | 128 |
+| last180d | 2026-03-19 | 6 | 264 | 40 | 12 | 22 | 239 |
+| 360d | 2025-09-20 | 14 | 455 | 44 | 45 | 41 | 421 |
+| last720d | 2024-09-25 | 35 | 795 | 45 | 163 | 59 | 729 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:41:45Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:50:02Z._
