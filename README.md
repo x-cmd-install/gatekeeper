@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.23.1` (2026-08-27)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-17
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,274 · **Forks**: 882 · **Open issues**: 1,575 · **Contributors**: 270
+- **Stars**: 4,276 · **Forks**: 882 · **Open issues**: 1,575 · **Contributors**: 270
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2540 · **Open PRs**: 45 · **Closed issues**: 1418 · **Open issues**: 157 · **Commits**: 2351
+- **Releases**: 142 · **Merged PRs**: 2549 · **Open PRs**: 36 · **Closed issues**: 1418 · **Open issues**: 157 · **Commits**: 2360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 34 | 27 | 1 | 8 | 32 |
-| last60d | 2026-07-18 | 1 | 90 | 30 | 2 | 12 | 78 |
-| 90d | 2026-06-18 | 4 | 132 | 34 | 2 | 13 | 128 |
-| last180d | 2026-03-20 | 6 | 262 | 40 | 12 | 22 | 239 |
-| 360d | 2025-09-21 | 14 | 455 | 44 | 45 | 41 | 421 |
-| last720d | 2024-09-26 | 35 | 794 | 45 | 163 | 59 | 729 |
+| 30d | 2026-08-18 | 1 | 43 | 17 | 1 | 8 | 41 |
+| last60d | 2026-07-19 | 1 | 99 | 21 | 2 | 12 | 87 |
+| 90d | 2026-06-19 | 4 | 140 | 25 | 2 | 13 | 137 |
+| last180d | 2026-03-21 | 6 | 270 | 31 | 12 | 22 | 248 |
+| 360d | 2025-09-22 | 14 | 464 | 35 | 44 | 40 | 430 |
+| last720d | 2024-09-27 | 35 | 802 | 36 | 163 | 59 | 738 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:38:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:47:59Z._
