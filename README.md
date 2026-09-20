@@ -4,7 +4,7 @@
 
 🐊 Policy Controller for Kubernetes
 
-![gatekeeper](https://repo.x-cmd.io/gatekeeper.svg)
+[![x-cmd/install — gatekeeper Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gatekeeper.svg)](https://x-cmd.com/install/gatekeeper)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install gatekeeper
 
 ## Code insight
 
-Total: **154,148** lines of code across **1021** files in the top 5 languages.
+Total: **155,353** lines of code across **1029** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 103,659 | 8,545 | 13,273 | 534 |
-| Yaml | 45,342 | 317 | 308 | 445 |
+| Go | 104,550 | 8,554 | 13,361 | 537 |
+| Yaml | 45,463 | 317 | 308 | 450 |
 | Json | 1,478 | 0 | 0 | 22 |
 | Sh | 1,008 | 245 | 336 | 17 |
 | Pan | 567 | 0 | 57 | 3 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.23.1` (2026-08-27)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,277 · **Forks**: 882 · **Open issues**: 1,576 · **Contributors**: 270
+- **Stars**: 4,277 · **Forks**: 882 · **Open issues**: 1,577 · **Contributors**: 270
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2550 · **Open PRs**: 39 · **Closed issues**: 1418 · **Open issues**: 158 · **Commits**: 2361
+- **Releases**: 142 · **Merged PRs**: 2551 · **Open PRs**: 39 · **Closed issues**: 1418 · **Open issues**: 159 · **Commits**: 2362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 44 | 19 | 1 | 9 | 42 |
-| last60d | 2026-07-20 | 1 | 85 | 24 | 2 | 13 | 88 |
-| 90d | 2026-06-20 | 4 | 141 | 28 | 2 | 14 | 138 |
-| last180d | 2026-03-22 | 6 | 271 | 34 | 12 | 23 | 249 |
-| 360d | 2025-09-23 | 14 | 465 | 38 | 44 | 41 | 431 |
-| last720d | 2024-09-28 | 35 | 803 | 39 | 163 | 60 | 739 |
+| 30d | 2026-08-21 | 1 | 45 | 19 | 1 | 10 | 26 |
+| last60d | 2026-07-22 | 1 | 85 | 23 | 2 | 14 | 76 |
+| 90d | 2026-06-22 | 4 | 137 | 28 | 2 | 15 | 131 |
+| last180d | 2026-03-24 | 6 | 260 | 34 | 12 | 24 | 241 |
+| 360d | 2025-09-25 | 14 | 466 | 38 | 44 | 42 | 429 |
+| last720d | 2024-09-30 | 35 | 800 | 39 | 162 | 61 | 740 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:39:07Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:29:48Z._
