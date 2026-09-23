@@ -4,7 +4,7 @@
 
 🐊 Policy Controller for Kubernetes
 
-[![x-cmd/install — gatekeeper Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gatekeeper.svg)](https://x-cmd.com/install/gatekeeper)
+[![x-cmd/install — gatekeeper Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gatekeeper.svg)](https://x-cmd.com/install/gatekeeper)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,277 · **Forks**: 882 · **Open issues**: 1,579 · **Contributors**: 270
+- **Stars**: 4,278 · **Forks**: 882 · **Open issues**: 1,579 · **Contributors**: 270
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 48 | 16 | 1 | 12 | 29 |
-| last60d | 2026-07-24 | 1 | 82 | 20 | 2 | 16 | 79 |
-| 90d | 2026-06-24 | 3 | 136 | 23 | 2 | 17 | 134 |
-| last180d | 2026-03-26 | 6 | 261 | 31 | 12 | 26 | 244 |
-| 360d | 2025-09-27 | 14 | 469 | 35 | 44 | 44 | 432 |
-| last720d | 2024-10-02 | 35 | 803 | 36 | 161 | 63 | 742 |
+| 30d | 2026-08-24 | 1 | 35 | 14 | 0 | 6 | 29 |
+| last60d | 2026-07-25 | 1 | 82 | 19 | 2 | 15 | 79 |
+| 90d | 2026-06-25 | 3 | 135 | 23 | 2 | 17 | 134 |
+| last180d | 2026-03-27 | 6 | 261 | 31 | 12 | 26 | 244 |
+| 360d | 2025-09-28 | 14 | 469 | 35 | 44 | 44 | 432 |
+| last720d | 2024-10-03 | 35 | 802 | 36 | 161 | 63 | 742 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:47:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:56:14Z._
