@@ -14,11 +14,11 @@ x install gatekeeper
 
 ## 代码洞察
 
-合计: **163,281** 行代码（覆盖前 5 种语言、共 **1041** 个文件）。
+合计: **163,619** 行代码（覆盖前 5 种语言、共 **1043** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 111,041 | 8,904 | 13,699 | 549 |
+| Go | 111,379 | 8,975 | 13,737 | 551 |
 | Yaml | 46,858 | 317 | 310 | 450 |
 | Json | 1,480 | 0 | 0 | 22 |
 | Sh | 1,008 | 245 | 336 | 17 |
@@ -48,22 +48,22 @@ x install gatekeeper
 
 ## 流行度
 
-- **Star**: 4,302 · **Fork**: 884 · **开放 issue**: 1,587 · **贡献者**: 273
+- **Star**: 4,302 · **Fork**: 883 · **开放 issue**: 1,588 · **贡献者**: 274
 
 ## 累计统计
 
-- **发布数**: 142 · **已合并 PR**: 2583 · **开放 PR**: 31 · **已关闭 issue**: 1428 · **开放 issue**: 159 · **提交数**: 2394
+- **发布数**: 142 · **已合并 PR**: 2584 · **开放 PR**: 31 · **已关闭 issue**: 1429 · **开放 issue**: 159 · **提交数**: 2395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 21 | 4 | 2 | 6 | 0 |
-| last60d | 2026-08-23 | 1 | 74 | 14 | 6 | 15 | 0 |
-| 90d | 2026-07-24 | 1 | 110 | 16 | 7 | 19 | 0 |
-| last180d | 2026-04-25 | 5 | 247 | 25 | 13 | 25 | 0 |
-| 360d | 2025-10-27 | 14 | 480 | 30 | 44 | 44 | 0 |
-| last720d | 2024-11-01 | 35 | 811 | 31 | 153 | 62 | 751 |
+| 30d | 2026-09-23 | 0 | 21 | 5 | 2 | 7 | 0 |
+| last60d | 2026-08-24 | 1 | 60 | 14 | 2 | 13 | 0 |
+| 90d | 2026-07-25 | 1 | 111 | 15 | 8 | 18 | 0 |
+| last180d | 2026-04-26 | 5 | 248 | 25 | 14 | 25 | 0 |
+| 360d | 2025-10-28 | 14 | 479 | 30 | 44 | 44 | 0 |
+| last720d | 2024-11-02 | 35 | 812 | 31 | 154 | 62 | 752 |
 
 ## Release 资产
 
@@ -75,6 +75,14 @@ x install gatekeeper
 | [gator-v3.23.1-linux-arm64.tar.gz](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-arm64.tar.gz) | 34.0 MiB | `native/linux/arm64` |
 | [sha256sums.txt](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/sha256sums.txt) | 406 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gatekeeper) 上共有 **8** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `3.23.1` | ✅ latest |
+
 ## 改进这些数据
 
 gatekeeper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gatekeeper` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +92,4 @@ gatekeeper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:57:45Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:09:50Z._

@@ -14,11 +14,11 @@ x install gatekeeper
 
 ## Code insight
 
-Total: **163,281** lines of code across **1041** files in the top 5 languages.
+Total: **163,619** lines of code across **1043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 111,041 | 8,904 | 13,699 | 549 |
+| Go | 111,379 | 8,975 | 13,737 | 551 |
 | Yaml | 46,858 | 317 | 310 | 450 |
 | Json | 1,480 | 0 | 0 | 22 |
 | Sh | 1,008 | 245 | 336 | 17 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 884 · **Open issues**: 1,587 · **Contributors**: 273
+- **Stars**: 4,302 · **Forks**: 883 · **Open issues**: 1,588 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2583 · **Open PRs**: 31 · **Closed issues**: 1428 · **Open issues**: 159 · **Commits**: 2394
+- **Releases**: 142 · **Merged PRs**: 2584 · **Open PRs**: 31 · **Closed issues**: 1429 · **Open issues**: 159 · **Commits**: 2395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 21 | 4 | 2 | 6 | 0 |
-| last60d | 2026-08-23 | 1 | 74 | 14 | 6 | 15 | 0 |
-| 90d | 2026-07-24 | 1 | 110 | 16 | 7 | 19 | 0 |
-| last180d | 2026-04-25 | 5 | 247 | 25 | 13 | 25 | 0 |
-| 360d | 2025-10-27 | 14 | 480 | 30 | 44 | 44 | 0 |
-| last720d | 2024-11-01 | 35 | 811 | 31 | 153 | 62 | 751 |
+| 30d | 2026-09-23 | 0 | 21 | 5 | 2 | 7 | 0 |
+| last60d | 2026-08-24 | 1 | 60 | 14 | 2 | 13 | 0 |
+| 90d | 2026-07-25 | 1 | 111 | 15 | 8 | 18 | 0 |
+| last180d | 2026-04-26 | 5 | 248 | 25 | 14 | 25 | 0 |
+| 360d | 2025-10-28 | 14 | 479 | 30 | 44 | 44 | 0 |
+| last720d | 2024-11-02 | 35 | 812 | 31 | 154 | 62 | 752 |
 
 ## Release assets
 
@@ -75,6 +75,14 @@ Lowest-scoring checks:
 | [gator-v3.23.1-linux-arm64.tar.gz](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-arm64.tar.gz) | 34.0 MiB | `native/linux/arm64` |
 | [sha256sums.txt](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/sha256sums.txt) | 406 B | `other` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/gatekeeper). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.23.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gatekeeper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:57:44Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:50Z._
