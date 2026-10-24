@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 883 · **Open issues**: 1,588 · **Contributors**: 274
+- **Stars**: 4,301 · **Forks**: 884 · **Open issues**: 1,588 · **Contributors**: 274
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 21 | 5 | 2 | 7 | 0 |
-| last60d | 2026-08-24 | 1 | 60 | 14 | 2 | 13 | 0 |
-| 90d | 2026-07-25 | 1 | 111 | 15 | 8 | 18 | 0 |
-| last180d | 2026-04-26 | 5 | 248 | 25 | 14 | 25 | 0 |
-| 360d | 2025-10-28 | 14 | 479 | 30 | 44 | 44 | 0 |
-| last720d | 2024-11-02 | 35 | 812 | 31 | 154 | 62 | 752 |
+| 30d | 2026-09-24 | 0 | 21 | 5 | 2 | 6 | 30 |
+| last60d | 2026-08-25 | 1 | 58 | 11 | 2 | 13 | 64 |
+| 90d | 2026-07-26 | 1 | 111 | 15 | 8 | 18 | 115 |
+| last180d | 2026-04-27 | 5 | 237 | 25 | 13 | 25 | 239 |
+| 360d | 2025-10-29 | 14 | 479 | 30 | 42 | 44 | 446 |
+| last720d | 2024-11-03 | 35 | 812 | 31 | 154 | 62 | 752 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:50Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:49:58Z._
