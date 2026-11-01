@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2584 · **Open PRs**: 37 · **Closed issues**: 1429 · **Open issues**: 162 · **Commits**: 2395
+- **Releases**: 142 · **Merged PRs**: 2584 · **Open PRs**: 38 · **Closed issues**: 1429 · **Open issues**: 162 · **Commits**: 2395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 12 | 9 | 2 | 9 | 20 |
-| last60d | 2026-09-01 | 0 | 40 | 16 | 2 | 15 | 51 |
-| 90d | 2026-08-02 | 1 | 105 | 21 | 8 | 19 | 108 |
-| last180d | 2026-05-04 | 4 | 236 | 31 | 13 | 28 | 231 |
-| 360d | 2025-11-05 | 13 | 471 | 35 | 39 | 43 | 436 |
-| last720d | 2024-11-10 | 35 | 806 | 37 | 151 | 65 | 748 |
+| 30d | 2026-10-02 | 0 | 12 | 10 | 2 | 9 | 18 |
+| last60d | 2026-09-02 | 0 | 37 | 16 | 2 | 15 | 46 |
+| 90d | 2026-08-03 | 1 | 100 | 22 | 8 | 19 | 96 |
+| last180d | 2026-05-05 | 4 | 236 | 32 | 13 | 27 | 230 |
+| 360d | 2025-11-06 | 13 | 470 | 36 | 39 | 43 | 431 |
+| last720d | 2024-11-11 | 35 | 803 | 38 | 151 | 65 | 748 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:58:23Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:23:37Z._
