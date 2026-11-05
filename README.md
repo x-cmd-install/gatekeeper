@@ -14,12 +14,12 @@ x install gatekeeper
 
 ## Code insight
 
-Total: **163,619** lines of code across **1043** files in the top 5 languages.
+Total: **163,354** lines of code across **1038** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 111,379 | 8,975 | 13,737 | 551 |
-| Yaml | 46,858 | 317 | 310 | 450 |
+| Go | 111,228 | 8,993 | 13,685 | 548 |
+| Yaml | 46,792 | 317 | 310 | 448 |
 | Json | 1,480 | 0 | 0 | 22 |
 | Sh | 1,008 | 245 | 336 | 17 |
 | Pan | 567 | 0 | 57 | 3 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.23.1` (2026-08-27)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-05
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,301 · **Forks**: 883 · **Open issues**: 1,591 · **Contributors**: 276
+- **Stars**: 4,302 · **Forks**: 883 · **Open issues**: 1,591 · **Contributors**: 276
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2584 · **Open PRs**: 44 · **Closed issues**: 1429 · **Open issues**: 162 · **Commits**: 2395
+- **Releases**: 142 · **Merged PRs**: 2598 · **Open PRs**: 34 · **Closed issues**: 1431 · **Open issues**: 160 · **Commits**: 2409
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 11 | 16 | 2 | 9 | 18 |
-| last60d | 2026-09-05 | 0 | 36 | 22 | 2 | 15 | 46 |
-| 90d | 2026-08-06 | 1 | 99 | 28 | 8 | 18 | 96 |
-| last180d | 2026-05-08 | 4 | 236 | 38 | 13 | 26 | 230 |
-| 360d | 2025-11-09 | 12 | 467 | 42 | 39 | 43 | 431 |
-| last720d | 2024-11-14 | 35 | 794 | 44 | 149 | 65 | 732 |
+| 30d | 2026-10-06 | 0 | 25 | 6 | 3 | 8 | 0 |
+| last60d | 2026-09-06 | 0 | 50 | 12 | 3 | 14 | 0 |
+| 90d | 2026-08-07 | 1 | 113 | 18 | 9 | 17 | 0 |
+| last180d | 2026-05-09 | 4 | 248 | 28 | 14 | 25 | 0 |
+| 360d | 2025-11-10 | 12 | 475 | 32 | 39 | 42 | 0 |
+| last720d | 2024-11-15 | 35 | 807 | 34 | 151 | 63 | 743 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:56:27Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:11:50Z._
