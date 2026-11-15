@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,303 · **Forks**: 887 · **Open issues**: 1,593 · **Contributors**: 275
+- **Stars**: 4,303 · **Forks**: 888 · **Open issues**: 1,593 · **Contributors**: 275
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 2596 · **Open PRs**: 41 · **Closed issues**: 1433 · **Open issues**: 160 · **Commits**: 2411
+- **Releases**: 142 · **Merged PRs**: 2596 · **Open PRs**: 42 · **Closed issues**: 1433 · **Open issues**: 160 · **Commits**: 2411
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 19 | 13 | 2 | 8 | 0 |
-| last60d | 2026-09-15 | 0 | 42 | 18 | 4 | 14 | 0 |
-| 90d | 2026-08-16 | 1 | 100 | 26 | 9 | 18 | 0 |
-| last180d | 2026-05-18 | 4 | 223 | 34 | 13 | 25 | 0 |
-| 360d | 2025-11-19 | 12 | 465 | 39 | 40 | 43 | 0 |
-| last720d | 2024-11-24 | 34 | 796 | 41 | 152 | 63 | 734 |
+| 30d | 2026-10-16 | 0 | 19 | 14 | 2 | 8 | 17 |
+| last60d | 2026-09-16 | 0 | 41 | 19 | 4 | 14 | 46 |
+| 90d | 2026-08-17 | 1 | 89 | 27 | 9 | 18 | 92 |
+| last180d | 2026-05-19 | 4 | 221 | 35 | 13 | 25 | 225 |
+| 360d | 2025-11-20 | 11 | 463 | 39 | 40 | 39 | 430 |
+| last720d | 2024-11-25 | 34 | 796 | 42 | 152 | 63 | 734 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:24:12Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:23:33Z._
