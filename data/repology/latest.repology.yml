@@ -20,8 +20,8 @@
     - gatekeeper
     - gatekeeper-debuginfo
   visiblename: gatekeeper
-  version: 5.0.1
-  origversion: 5.0.1-alt1
+  version: 5.1.0
+  origversion: 5.1.0-alt1
   status: untrusted
   summary: An OpenID / Proxy service
   maintainers:
