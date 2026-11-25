@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 897 · **Open issues**: 1,595 · **Contributors**: 275
+- **Stars**: 4,303 · **Forks**: 897 · **Open issues**: 1,595 · **Contributors**: 275
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 30 | 10 | 1 | 5 | 28 |
-| last60d | 2026-09-25 | 1 | 51 | 14 | 5 | 10 | 48 |
-| 90d | 2026-08-26 | 2 | 83 | 20 | 6 | 16 | 85 |
-| last180d | 2026-05-28 | 5 | 226 | 30 | 16 | 23 | 237 |
-| 360d | 2025-11-29 | 12 | 467 | 35 | 40 | 36 | 438 |
-| last720d | 2024-12-04 | 35 | 806 | 37 | 156 | 59 | 745 |
+| 30d | 2026-10-26 | 1 | 29 | 9 | 1 | 5 | 28 |
+| last60d | 2026-09-26 | 1 | 51 | 14 | 5 | 10 | 48 |
+| 90d | 2026-08-27 | 2 | 77 | 20 | 6 | 16 | 85 |
+| last180d | 2026-05-29 | 5 | 226 | 30 | 16 | 23 | 237 |
+| 360d | 2025-11-30 | 12 | 467 | 35 | 40 | 36 | 438 |
+| last720d | 2024-12-05 | 35 | 805 | 37 | 156 | 59 | 744 |
 
 ## Release assets
 
@@ -75,14 +75,6 @@ Lowest-scoring checks:
 | [gator-v3.23.1-linux-arm64.tar.gz](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/gator-v3.23.1-linux-arm64.tar.gz) | 34.0 MiB | `native/linux/arm64` |
 | [sha256sums.txt](https://github.com/open-policy-agent/gatekeeper/releases/download/v3.23.1/sha256sums.txt) | 406 B | `other` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/gatekeeper). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.23.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gatekeeper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +84,4 @@ Install metadata for gatekeeper lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:06:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:20:11Z._
